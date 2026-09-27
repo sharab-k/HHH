@@ -1,0 +1,5 @@
+# original full-size photos (the site uses the resized copies in images/)
+WhatsApp*
+*.zip
+*.jfif
+.claude/
